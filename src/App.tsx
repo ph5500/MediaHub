@@ -18,6 +18,15 @@ const App = () => {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+
+        Google
+        </a>
       </header>
     </div>
   );
